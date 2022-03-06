@@ -1,3 +1,5 @@
+Build with Visual Studio Code with PlatformIO Extension (probabaly others)
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
