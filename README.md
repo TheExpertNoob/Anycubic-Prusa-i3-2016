@@ -1,6 +1,6 @@
 Build with Visual Studio Code with PlatformIO Extension (probabaly others)
 
-##Updated to v1.1.0 to add Auto Bed Mesh Leveling.
+## Updated to v1.1.0 to add Auto Bed Mesh Leveling.
 
 # Marlin 3D Printer Firmware
 
