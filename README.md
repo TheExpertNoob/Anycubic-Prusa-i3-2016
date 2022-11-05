@@ -1,6 +1,9 @@
-Build with Visual Studio Code with PlatformIO Extension (probabaly others)
+Build with Visual Studio Code with PlatformIO Extension (probabaly others).  
+Flashed the .hex file with Cura via USB. (Check your jumper for DC <-> USB and dont fry a board like I did!)  
+  
+## Customized for Auto Bed Mesh Leveling with a TL-W5MC1 Sensor.  
 
-## Updated to v1.1.0 to add Auto Bed Mesh Leveling.
+# Below is the Marlin stuff.
 
 # Marlin 3D Printer Firmware
 
